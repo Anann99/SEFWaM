@@ -3,7 +3,7 @@ Research Paper on devising an ensemble network (CNN + XGBoost) having the best e
 
 Trashnet2.0 is a modification of Trashnet where instances have been re assigned classes as some instances were earlier wrongly classififed.
 
-[https://drive.google.com/u/0/uc?id=1gJPEeiseyBq3_Z1B0GhyZrxCtFKzrV-K](https://drive.google.com/drive/folders/1_2xJak4OnDiYYM8Dy2s3hCs4XnEnJJtT?usp=sharing)] is the link to download the zip file of Trashnet2.0.
+[[https://drive.google.com/u/0/uc?id=1gJPEeiseyBq3_Z1B0GhyZrxCtFKzrV-K](https://drive.google.com/drive/folders/1_2xJak4OnDiYYM8Dy2s3hCs4XnEnJJtT?usp=sharing)] is the link to download the zip file of Trashnet2.0.
 
 
 Abstract - Waste generation has increased tremendously in the last decade. Efficient and Sustainable waste management is the need of the hour. With the massive land fillings covered under heaps of garbage, the segregation of waste in recyclable and non-recyclable will solve many problems around the globe. The necessity to classify the garbage into various classes such as paper, plastic and metal is rising, as different classes require different methods of disposing the garbage and some can even be recycled. 
